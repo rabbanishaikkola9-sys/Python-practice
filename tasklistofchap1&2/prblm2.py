@@ -1,0 +1,10 @@
+# Making the simple calculator using the python
+print("****** Python Calculator*********")
+num1=int(input("Enter the value  "))
+num2=int(input("Enter the value   "))
+print("The first value is :",num1)
+print("The Second  value is :",num2)
+print("The addition of :",num1,"and ",num2,"is",num1+num2)
+print("The subtraction of :",num1,"and ",num2,"is",num1-num2)
+print("The multiplication of :",num1,"and ",num2,"is",num1*num2)
+print("The divison of :",num1,"and ",num2,"is",num1/num2)
