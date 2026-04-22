@@ -1,0 +1,6 @@
+name=input("Enter the name :\n")
+print("the type of name is :",type(name))
+name1=int(input("Enter the another value"))
+print("The type of name1 is :",type(name1))
+name1=float(input("Enter the another name"))
+print("The type of name1 is :",type(name1))
