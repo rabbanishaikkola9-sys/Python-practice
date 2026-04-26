@@ -1,0 +1,15 @@
+dict={
+    "rabbani":100,
+    "rehaan":70,
+    "key":"value",
+    "10":"rabbani"
+}
+print(dict,type(dict))
+print(dict.keys())
+print(dict.values())
+print(dict.items())
+print(dict.get("101")) 
+print(dict["10"])
+dict.pop("key")
+dict.popitem({"10":"rabbani"})
+print(dict)
