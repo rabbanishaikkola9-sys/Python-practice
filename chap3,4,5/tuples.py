@@ -1,0 +1,7 @@
+tup=(1,1,2,3,"rabbani")
+print(tup.index(2))
+# print(tup)
+print(tup.count("rabbani"))
+tup=(1,2,[3,4])
+print(tup)
+print(tup.index(1))
